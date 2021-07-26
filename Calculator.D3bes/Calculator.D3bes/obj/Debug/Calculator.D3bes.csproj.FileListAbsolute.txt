@@ -1,0 +1,10 @@
+C:\Users\Rabaya\source\repos\Calculator.D3bes\Calculator.D3bes\bin\Debug\Calculator.D3bes.exe.config
+C:\Users\Rabaya\source\repos\Calculator.D3bes\Calculator.D3bes\bin\Debug\Calculator.D3bes.exe
+C:\Users\Rabaya\source\repos\Calculator.D3bes\Calculator.D3bes\bin\Debug\Calculator.D3bes.pdb
+C:\Users\Rabaya\source\repos\Calculator.D3bes\Calculator.D3bes\obj\Debug\Calculator.D3bes.csproj.AssemblyReference.cache
+C:\Users\Rabaya\source\repos\Calculator.D3bes\Calculator.D3bes\obj\Debug\Calculator.D3bes.Form1.resources
+C:\Users\Rabaya\source\repos\Calculator.D3bes\Calculator.D3bes\obj\Debug\Calculator.D3bes.Properties.Resources.resources
+C:\Users\Rabaya\source\repos\Calculator.D3bes\Calculator.D3bes\obj\Debug\Calculator.D3bes.csproj.GenerateResource.cache
+C:\Users\Rabaya\source\repos\Calculator.D3bes\Calculator.D3bes\obj\Debug\Calculator.D3bes.csproj.CoreCompileInputs.cache
+C:\Users\Rabaya\source\repos\Calculator.D3bes\Calculator.D3bes\obj\Debug\Calculator.D3bes.exe
+C:\Users\Rabaya\source\repos\Calculator.D3bes\Calculator.D3bes\obj\Debug\Calculator.D3bes.pdb
